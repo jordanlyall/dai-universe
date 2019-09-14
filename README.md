@@ -12,16 +12,17 @@ A catalog of all the variations of Dai emerging from the composability and colla
 | [gDAI](https://devpost.com/software/gdai)    | Uses iDai interest to enable future gas-less DAI transfers                                                                    |   Mainnet      |
 | [lsDAI](https://devpost.com/software/lsdai)   | Earn Compound interest on your collateral with rDai, while providing liquidity for hedges against variable Compound interest. |    Mainnet     |
 | [wxDAI](https://forum.poa.network/t/dappcon-2019-achieving-scalability-on-ethereum-1-0-through-interoperability/3036)   | Wrapped xDai bridged to Mainnet in a form of ERC20                                                                            |         |
-| [IdleDAI](https://idle.finance/) | Rebalances between Compound and Fulcrum                                                                                       |    Mainnet     |
+| [idleDAI](https://idle.finance/) | Rebalances between Compound and Fulcrum                                                                                       |    Mainnet     |
+| [maxDAI](https://metamoneymarket.com/) | Rebalances between Compound and dYdX                                                                                       |    Mainnet     |
 | [swanDAI](https://devpost.com/software/swandai) | Get exposure to DeFi black swan events via synthetic tokens                                                                   |         |
 | [pDAI](https://zeframlou.github.io/pool-dai/)    | A no-loss donation protocol enabling people to pool money together, lend it out, and donate the interest to a cause.          | Mainnet |
+| [HCDP](https://etherscan.io/address/0x607d2dd18c9782dd0c387b2fe8a69bbcfe0e3eb3)    | rDAI where the 3rd party is fixed to a HumanityDAO UBI fund          | Mainnet |
 | [zkDAI](https://devpost.com/software/ethsingapore-zk-dai)   | Hidden Dai transactions using zkSnarks                                                                                        |         |
 | [yDAI](https://finance.yahoo.com/news/paradigm-research-partner-announces-framework-194901871.html)    | Get short exposure on Dai                                                                                                     |    Proposal     |
 | [∞DAI](https://twitter.com/JordanLyall/status/1166805059318894593)    | Earned interest goes to smart contract cover insurance                                                                        | Idea    |
 | [nmDAI](https://twitter.com/spengrah/status/1167534465725423616)   | Similar to above, cDAI with built-in  Nexus Mutual contract cover.                                                            | Idea    |
 | [aDAI](https://aave.com/)    | ?                                                                                                                             |     Rumor    |
-| [metaDAI](https://metamoneymarket.com/) | ?                                                                                                                             |     Rumor    |
-| [dDai](https://twitter.com/defiedio)    | ?                                                                                                                             |   Rumor      |
+
 
 
 ## Contributions
