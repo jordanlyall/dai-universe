@@ -1,6 +1,6 @@
 # The Dai Universe
 
-A catalog of all the variations of Dai emerging from open finance.
+A catalog of all the variations of Dai emerging from the composability and collaboration of DeFi.
 
 | Project  | Description                                                                                                                   | Stage  |
 |---------|-------------------------------------------------------------------------------------------------------------------------------|---------|
