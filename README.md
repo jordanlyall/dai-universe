@@ -4,7 +4,7 @@ Money legos all the way down.
 
 | Symbol  | Description                                                                                                                   | Status  |
 |---------|-------------------------------------------------------------------------------------------------------------------------------|---------|
-| [DAI](https://makerdao.com/en/dai/)     | Decentralized stablecoin peggd to $1 USD                                                                                      | Mainnet |
+| [DAI](https://makerdao.com/en/dai/)     | Decentralized stablecoin pegged to $1 USD                                                                                      | Mainnet |
 | [xDAI](https://poa.network/xdai)    | Pegged to Dai, but on a POA sidechain for fast transactions and low gas prices                                                | Mainnet |
 | [cDAI](https://compound.finance/ctokens)    | Tokens representing a balance earning interest on Compound                                                                    | Mainnet |
 | [rDAI](https://redeem.money/)    | Tokenized interest that's sent to a third party (developer, charity, dapp)                                                    |         |
