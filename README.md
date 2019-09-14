@@ -22,3 +22,14 @@ Money legos all the way down.
 | [aDAI](https://aave.com/)    | ?                                                                                                                             |         |
 | [metaDAI](https://metamoneymarket.com/) | ?                                                                                                                             |         |
 | [dDai](https://twitter.com/defiedio)    | ?                                                                                                                             |         |
+
+
+## Contributions
+
+Contributions are encouraged!
+
+Send a pull request, @ or DM me: [@jordanlyall](https://twitter.com/jordanlyall)
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
