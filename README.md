@@ -1,6 +1,6 @@
 # The Dai Universe
 
-Money legos all the way down.
+A catalog of all the variations of Dai emerging from open finance.
 
 | Project  | Description                                                                                                                   | Stage  |
 |---------|-------------------------------------------------------------------------------------------------------------------------------|---------|
