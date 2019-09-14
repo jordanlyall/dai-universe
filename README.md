@@ -2,7 +2,7 @@
 
 Money legos all the way down.
 
-| Symbol  | Description                                                                                                                   | Stage  |
+| Project  | Description                                                                                                                   | Stage  |
 |---------|-------------------------------------------------------------------------------------------------------------------------------|---------|
 | [DAI](https://makerdao.com/en/dai/)     | Decentralized stablecoin pegged to $1 USD                                                                                      | Mainnet |
 | [xDAI](https://poa.network/xdai)    | Pegged to Dai, but on a POA sidechain for fast transactions and low gas prices                                                | Mainnet |
