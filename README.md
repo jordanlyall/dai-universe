@@ -9,7 +9,7 @@ A catalog of all the variations of Dai emerging from the composability and colla
 | [cDAI](https://compound.finance/ctokens)    | Tokens representing a balance earning interest on Compound                                                                    | Mainnet |
 | [rDAI](https://redeem.money/)    | Tokenized interest that's sent to a third party (developer, charity, dapp)                                                    |     Rinkeby    |
 | [iDAI](https://bzx.network/faq-fulcrum.html)    | Tokens representing a balance earning interest on Fulcrum                                                                     |    Mainnet     |
-| [gDAI](https://devpost.com/software/gdai)    | Uses cDai interest to enable future gas-less DAI transfers                                                                    |   Mainnet      |
+| [gDAI](https://devpost.com/software/gdai)    | Uses iDai interest to enable future gas-less DAI transfers                                                                    |   Mainnet      |
 | [lsDAI](https://devpost.com/software/lsdai)   | Earn Compound interest on your collateral with rDai, while providing liquidity for hedges against variable Compound interest. |    Mainnet     |
 | [wxDAI](https://forum.poa.network/t/dappcon-2019-achieving-scalability-on-ethereum-1-0-through-interoperability/3036)   | Wrapped xDai bridged to Mainnet in a form of ERC20                                                                            |         |
 | [IdleDAI](https://idle.finance/) | Rebalances between Compound and Fulcrum                                                                                       |    Mainnet     |
