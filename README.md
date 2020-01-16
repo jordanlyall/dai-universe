@@ -16,7 +16,8 @@ A catalog of all the variations of Dai emerging from the composability and colla
 | [idleDAI](https://idle.finance/) | Rebalances between Compound and Fulcrum                                                                                       |    Mainnet     |
 | [maxDAI](https://metamoneymarket.com/) | Rebalances between Compound and dYdX                                                                                       |    Mainnet     |
 | [swanDAI](https://devpost.com/software/swandai) | Get exposure to DeFi black swan events via synthetic tokens                                                                   |         |
-| [pDAI](https://zeframlou.github.io/pool-dai/)    | A no-loss donation protocol enabling people to pool money together, lend it out, and donate the interest to a cause.          | Mainnet |
+| [pDAI<sup>1</sup>](https://zeframlou.github.io/pool-dai/)    | A no-loss donation protocol enabling people to pool money together, lend it out, and donate the interest to a cause.          | Mainnet |
+| [pDAI<sup>2</sup>](https://ptokens.io/)    | On the pTokens platform, pDAI enables the Dai token to be used on EOSIO         | Pending |
 | [HCDP](https://etherscan.io/address/0x607d2dd18c9782dd0c387b2fe8a69bbcfe0e3eb3)    | rDAI where the 3rd party is fixed to a HumanityDAO UBI fund          | Mainnet |
 | [WeiDai](https://www.weidaidapp.com)    | A protective wrapper for Dai against inflation          | Mainnet |
 | [Chai](https://chai.money/)    | Chai tokenizes the Dai Savings Rate. Earn interest on Dai without having to lock it up.          | Mainnet |
@@ -25,7 +26,7 @@ A catalog of all the variations of Dai emerging from the composability and colla
 | [yDAI](https://finance.yahoo.com/news/paradigm-research-partner-announces-framework-194901871.html)    | Get short exposure on Dai                                                                                                     |    Proposal     |
 | [∞DAI](https://twitter.com/JordanLyall/status/1166805059318894593)    | Earned interest goes to smart contract cover insurance                                                                        | Idea    |
 | [nmDAI](https://twitter.com/spengrah/status/1167534465725423616)   | Similar to above, cDAI with built-in  Nexus Mutual contract cover.                                                            | Idea    |
-| [aDAI](https://aave.com/)    | Token representing a DAI deposit in Aave protocol DAI reserve, pegged to 1$ USD                                                                                                                              |    Kovan   |
+| [aDAI](https://aave.com/)    | Token representing a DAI deposit in Aave protocol DAI reserve, pegged to 1$ USD                                                                                                                              |    Mainnet   |
 | [DDAI](https://devpost.com/software/ddai) | Gas station network enabled interest delegating dai with smart DeFi recipes | In progress
 
 
