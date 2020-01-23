@@ -29,6 +29,7 @@ A catalog of all the variations of Dai emerging from the composability and colla
 | [∞DAI](https://twitter.com/JordanLyall/status/1166805059318894593)    | Earned interest goes to smart contract cover insurance                                                                        | Idea    |
 | [nmDAI](https://twitter.com/spengrah/status/1167534465725423616)   | Similar to above, cDAI with built-in  Nexus Mutual contract cover.                                                            | Idea    |
 | [DDAI](https://devpost.com/software/ddai) | Gas station network enabled interest delegating dai with smart DeFi recipes | In progress
+| [CherryDAI](https://www.notion.so/Double-bonding-curve-liquidity-pool-as-an-automatic-swap-market-maker-e6f2eb5001244ed89832789e07e1ca71) | An interest bearing token representing fractional ownership in the liquidity pool plus the returns from offering the swaps | In progress
 
 
 
