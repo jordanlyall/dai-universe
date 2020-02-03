@@ -33,7 +33,7 @@ A catalog of all the variations of Dai emerging from the composability and colla
 | [nmDAI](https://twitter.com/spengrah/status/1167534465725423616)   | Similar to above, cDAI with built-in  Nexus Mutual contract cover.                                                            | Idea    |
 | [DDAI](https://devpost.com/software/ddai) | Gas station network enabled interest delegating dai with smart DeFi recipes | In progress
 | [CherryDAI](https://www.notion.so/Double-bonding-curve-liquidity-pool-as-an-automatic-swap-market-maker-e6f2eb5001244ed89832789e07e1ca71) | An interest bearing token representing fractional ownership in the liquidity pool plus the returns from offering the swaps | In progress 
-| [bDAI](https://btu-protocol.com/bdai/) | bDAI is a stable coin that automatically rewards in BTU when you use it. Rewards are based on DSR, currently 7.75% per year. | In progress 
+| [bDAI](https://btu-protocol.com/bdai/) | bDAI is a stable coin that automatically rewards in BTU when you use it. Rewards are based on DSR, currently 7.75% per year. | Mainnet 
 
 
 
