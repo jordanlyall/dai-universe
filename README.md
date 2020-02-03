@@ -25,7 +25,7 @@ A catalog of all the variations of Dai emerging from the composability and colla
 | [Chai](https://chai.money/)    | Chai tokenizes the Dai Savings Rate. Earn interest on Dai without having to lock it up.          | Mainnet |
 | [DAI-HRD](https://medium.com/@keydonix/dai-hrd-token-hold-rated-dai-dfd3fe491d83?)    | Earn interest on your DAI, while continuing to function as a standard token.          | Mainnet |
 | [zDAI](https://github.com/zdai-io)   | Confidential Dai transactions on Burner wallet                                                                                     |         |
-| [zkDAI<sup>1</sup>](https://medium.com/@tompocock/launching-aztec-c9fb271605d7)   | Abstracts away the complexities of the Aztec Protocol for privacy on Ethereum                                                                                        |         |
+| [zkDAI<sup>1</sup>](https://medium.com/@tompocock/launching-aztec-c9fb271605d7)   | Abstracts away the complexities of the Aztec Protocol for privacy on Ethereum      | Mainnet |
 | [zkDAI<sup>2</sup>](https://devpost.com/software/ethsingapore-zk-dai)   | Hidden Dai transactions using zkSnarks                                                                                        |         |
 | [yDAI](https://finance.yahoo.com/news/paradigm-research-partner-announces-framework-194901871.html)    | Get short exposure on Dai                                                                                                     |    Proposal     |
 | [∞DAI](https://twitter.com/JordanLyall/status/1166805059318894593)    | Earned interest goes to smart contract cover insurance                                                                        | Idea    |
