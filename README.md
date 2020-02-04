@@ -10,7 +10,7 @@ A catalog of all the variations of Dai emerging from the composability and colla
 | [cDAI](https://compound.finance/ctokens)    | Tokens representing a balance earning interest on Compound                                                                    | Mainnet |
 | [iDAI](https://bzx.network/faq-fulcrum.html)    | Tokens representing a balance earning interest on Fulcrum                                                                     |    Mainnet     |
 | [aDAI](https://aave.com/)    | Token representing a DAI deposit in Aave protocol DAI reserve, pegged to 1$ USD and ever-growing directly into the user Balance.                                                                                                                              |    Mainnet   |
-| [rDAI](https://redeem.money/)    | Tokenized interest that's sent to a third party (developer, charity, dapp)                                                    |     Rinkeby    |
+| [rDAI](https://redeem.money/)    | Tokenized interest that's sent to a third party (developer, charity, dapp)                                                    |     Mainnet    |
 | [plDAI](https://www.pooltogether.com/) | Representing tickets in the PoolTogether no-loss lottery. Minted when your deposit is eligible to win a prize. | Mainnet |
 | [gDAI](https://devpost.com/software/gdai)    | Uses iDai interest to enable future gas-less DAI transfers                                                                    |   Mainnet      |
 | [lsDAI](https://devpost.com/software/lsdai)   | Earn Compound interest on your collateral with rDai, while providing liquidity for hedges against variable Compound interest. |    Mainnet     |
