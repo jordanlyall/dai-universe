@@ -36,7 +36,8 @@ A catalog of all the variations of Dai emerging from the composability and colla
 | [CherryDAI](https://www.notion.so/Double-bonding-curve-liquidity-pool-as-an-automatic-swap-market-maker-e6f2eb5001244ed89832789e07e1ca71) | An interest bearing token representing fractional ownership in the liquidity pool plus the returns from offering the swaps | In progress | 
 | [bDAI](https://btu-protocol.com/bdai/) | bDAI is a stable coin that automatically rewards in BTU when you use it. Rewards are based on DSR, currently 7.75% per year. | Mainnet |
 | [ezDAI](https://zerocollateral.com/) | ezDAI represent Dai being lent on the Zero Collateral protocol. ezDAI can be redeemed for DAI by withdrawing supply from the market. | Mainnet |
-| [oDAI](https://drive.google.com/file/d/1YsrGBUpZoPvFLtcwkEYkxNhogWCU772D/view) | oDAI is an options contract on the Convexity Protocol. For example, a useer can buy a put options against smart contract risk. | In Progress 
+| [oDAI](https://drive.google.com/file/d/1YsrGBUpZoPvFLtcwkEYkxNhogWCU772D/view) | oDAI is an options contract on the Convexity Protocol. For example, a useer can buy a put options against smart contract risk. | In Progress |
+| [vDAI](https://docs.makerdao.com/smart-contract-modules/core-module/vat-detailed-documentation) | vDAI is shorthand for MakerDAO's internal "vat Dai".
 
 
 
